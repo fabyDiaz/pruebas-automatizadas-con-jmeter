@@ -12,7 +12,7 @@
 Modelar y ejecutar con Apache JMeter el flujo completo de compra en BlazeDemo, aplicando parametrización (CSV), correlación de valores dinámicos, assertions y reporte HTML, siguiendo buenas prácticas.
 
 
-[Click aquí para ver reporte]()
+[Click aquí para ver reporte] (https://fabydiaz.github.io/pruebas-automatizadas-con-jmeter/)
 
 
 
