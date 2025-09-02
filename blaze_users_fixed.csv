@@ -1,0 +1,61 @@
+inputName,address,city,state,zipCode,cardType,creditCardNumber,creditCardMonth,creditCardYear,nameOnCard,fromPort,toPort
+Felipe Ramírez,Calle 1343 #446,Antofagasta,IX,62853,dinersclub,38254242865385,09,2025,Felipe Ramírez,Portland,London
+Sofía Rojas,Calle 7829 #428,Arica,V,85419,visa,4303371613285942,07,2025,Sofía Rojas,Portland,Dublin
+María Rojas,Calle 2231 #785,Antofagasta,II,29323,dinersclub,38412503030017,06,2026,María Rojas,Philadelphia,Cairo
+Camila Díaz,Calle 5054 #38,Talca,RM,87804,visa,4544927000203185,11,2032,Camila Díaz,Portland,Buenos Aires
+Ricardo Contreras,Calle 8163 #744,Rancagua,VI,94505,visa,4028758823081582,01,2025,Ricardo Contreras,Portland,Cairo
+Juan Núñez,Calle 5067 #958,Rancagua,VII,36252,visa,4510022926217066,09,2025,Juan Núñez,Boston,London
+Diego Fuentes,Calle 1333 #884,Talca,VIII,88057,visa,4122964510535639,09,2028,Diego Fuentes,Portland,New York
+Andrés Núñez,Calle 902 #231,Santiago,II,68280,amex,342999997030781,01,2025,Andrés Núñez,Paris,Rome
+Pedro Ramírez,Calle 1715 #605,Valparaíso,VII,66456,dinersclub,38265748679839,08,2028,Pedro Ramírez,Portland,Cairo
+Luis González,Calle 9062 #983,Santiago,XV,74477,amex,340087122937964,04,2030,Luis González,São Paolo,New York
+Fernanda Fuentes,Calle 1888 #776,Talca,VIII,73520,visa,4393703698167454,01,2031,Fernanda Fuentes,São Paolo,Dublin
+Paula Ramírez,Calle 8728 #491,Antofagasta,VIII,60325,visa,4780757873568067,12,2031,Paula Ramírez,Paris,New York
+Camila Vargas,Calle 2351 #197,Arica,RM,70627,amex,371616208138406,08,2029,Camila Vargas,Philadelphia,Buenos Aires
+María Pérez,Calle 2135 #859,Valparaíso,V,31782,amex,377710006376204,03,2028,María Pérez,Portland,Rome
+Ricardo Martínez,Calle 9973 #155,La Serena,VIII,60103,visa,4476931994319465,04,2032,Ricardo Martínez,São Paolo,Berlin
+Ana Fuentes,Calle 3973 #326,Talca,VI,99026,amex,341384615592705,07,2028,Ana Fuentes,Portland,New York
+Luis Díaz,Calle 7478 #847,Iquique,VI,76559,amex,378997200631854,08,2029,Luis Díaz,Boston,New York
+Carlos Contreras,Calle 3547 #251,Antofagasta,V,74521,amex,346644456657297,07,2033,Carlos Contreras,San Diego,Dublin
+Andrés González,Calle 7960 #753,Temuco,II,43945,visa,4946986260141094,10,2027,Andrés González,Mexico City,Dublin
+Sofía Torres,Calle 3054 #964,Talca,I,75930,visa,4975758951045096,11,2029,Sofía Torres,Philadelphia,Buenos Aires
+Andrés Morales,Calle 1621 #442,Temuco,II,31131,dinersclub,38899165938229,05,2033,Andrés Morales,Paris,New York
+Sofía Núñez,Calle 6144 #677,Santiago,I,61749,visa,4017811148172528,07,2026,Sofía Núñez,São Paolo,Berlin
+Javier Reyes,Calle 8370 #827,Temuco,V,89775,amex,344808641727486,04,2028,Javier Reyes,Paris,Dublin
+Fernanda Rojas,Calle 1739 #241,Rancagua,VI,36221,dinersclub,36549806583062,10,2030,Fernanda Rojas,Portland,Berlin
+Daniela Soto,Calle 9177 #449,Concepción,IV,72563,amex,340099913167716,02,2030,Daniela Soto,Boston,Rome
+Daniela Muñoz,Calle 8165 #494,Antofagasta,IV,86283,dinersclub,36345113022482,03,2030,Daniela Muñoz,São Paolo,Buenos Aires
+Carlos Torres,Calle 8691 #805,Talca,VIII,18092,visa,4184564074797553,10,2032,Carlos Torres,Mexico City,London
+Daniela Díaz,Calle 7948 #144,Santiago,IV,89886,visa,4752973301018545,04,2029,Daniela Díaz,Mexico City,Dublin
+Diego González,Calle 4188 #837,Rancagua,RM,80648,dinersclub,38035452105813,12,2031,Diego González,Philadelphia,Berlin
+Carlos González,Calle 5207 #929,La Serena,VI,27732,visa,4269022156520883,09,2033,Carlos González,Paris,Berlin
+Valentina Flores,Calle 4766 #388,Santiago,VI,30504,visa,4199564471628486,04,2027,Valentina Flores,Paris,Berlin
+Carlos Soto,Calle 7132 #566,Temuco,VI,99034,visa,4423203592051693,06,2025,Carlos Soto,Paris,Cairo
+Sofía Flores,Calle 1675 #422,Antofagasta,V,48552,amex,341136619204835,12,2033,Sofía Flores,Portland,Cairo
+Javier López,Calle 5410 #309,Iquique,VI,71356,visa,4651076799469754,02,2025,Javier López,São Paolo,Buenos Aires
+Daniela Contreras,Calle 1131 #308,Iquique,I,11703,dinersclub,36981387597140,06,2032,Daniela Contreras,Philadelphia,Dublin
+Luis Torres,Calle 6232 #249,Iquique,IX,39375,dinersclub,38733895658779,08,2026,Luis Torres,Philadelphia,London
+Pedro Morales,Calle 340 #171,Talca,IV,17877,amex,346522731977543,07,2026,Pedro Morales,San Diego,Cairo
+Diego Morales,Calle 7728 #18,Concepción,VIII,17421,visa,4876610729638088,03,2032,Diego Morales,Philadelphia,Buenos Aires
+María Hernández,Calle 8273 #565,La Serena,IV,42526,dinersclub,38497906003723,02,2031,María Hernández,São Paolo,Cairo
+Diego Castro,Calle 1312 #244,Antofagasta,VII,25524,dinersclub,38297639862426,02,2032,Diego Castro,Portland,Berlin
+Paula Contreras,Calle 6304 #537,Antofagasta,RM,11000,amex,348867630216847,11,2029,Paula Contreras,Philadelphia,London
+María Pérez,Calle 3531 #861,Temuco,IX,56012,visa,4287829344474705,04,2028,María Pérez,Boston,Cairo
+Valentina Muñoz,Calle 7398 #733,Talca,VIII,61768,dinersclub,36672525721354,01,2033,Valentina Muñoz,Paris,Buenos Aires
+Juan López,Calle 84 #560,Santiago,RM,67562,amex,376970320459195,06,2028,Juan López,Philadelphia,Cairo
+Ricardo Núñez,Calle 4322 #44,Valparaíso,RM,82454,visa,4446064614947197,03,2032,Ricardo Núñez,São Paolo,Cairo
+Camila Fuentes,Calle 586 #661,Iquique,V,71838,dinersclub,38542858047331,10,2031,Camila Fuentes,Mexico City,Cairo
+Constanza Reyes,Calle 9171 #442,La Serena,V,16952,visa,4791914382356961,02,2027,Constanza Reyes,Boston,Cairo
+Isidora Flores,Calle 391 #252,Temuco,XV,76748,visa,4982600736720889,10,2026,Isidora Flores,Mexico City,Dublin
+Juan Contreras,Calle 8874 #771,Valparaíso,IV,75089,amex,370529110543849,05,2026,Juan Contreras,Boston,London
+Andrés Muñoz,Calle 5913 #628,Valparaíso,VI,45291,dinersclub,36900353092643,08,2033,Andrés Muñoz,São Paolo,Berlin
+Sofía Contreras,Calle 4720 #458,Temuco,XV,90401,amex,378470334914404,10,2030,Sofía Contreras,Mexico City,Buenos Aires
+Paula Vargas,Calle 1297 #479,Rancagua,VIII,29936,visa,4555668940301938,10,2033,Paula Vargas,Paris,New York
+Javier Núñez,Calle 1385 #234,Temuco,II,71431,amex,349798885559283,10,2026,Javier Núñez,Portland,Buenos Aires
+Daniela Fuentes,Calle 4711 #307,Valparaíso,IX,11191,amex,348268339521942,04,2028,Daniela Fuentes,Boston,London
+Constanza Morales,Calle 8211 #142,Temuco,VII,12645,amex,341057744290500,04,2030,Constanza Morales,Boston,Rome
+Javier Vargas,Calle 5883 #842,Antofagasta,RM,37289,dinersclub,38520948396109,11,2029,Javier Vargas,São Paolo,Berlin
+Fernanda Silva,Calle 650 #979,Rancagua,I,61746,amex,341538131009711,09,2028,Fernanda Silva,San Diego,New York
+Daniela Flores,Calle 9794 #315,Valparaíso,XV,33387,dinersclub,36702725903074,05,2025,Daniela Flores,Portland,Buenos Aires
+Juan Castro,Calle 1501 #217,Santiago,XV,97705,visa,4397338271231823,04,2033,Juan Castro,Portland,New York
+Sofía Rojas,Calle 258 #764,Rancagua,V,23889,amex,340586303359292,04,2032,Sofía Rojas,Portland,Berlin
