@@ -15,6 +15,11 @@ Modelar y ejecutar con Apache JMeter el flujo completo de compra en BlazeDemo, a
 
 [Click aquí para ver reporte](https://fabydiaz.github.io/pruebas-automatizadas-con-jmeter/)
 
+## Comandos
+````bash
+jmeter -n -t BlazeDemo.jmx -l results.jtl -e -o docs.html
+````
+
 ### Análisis de Resultados
 
 **Summary Report – TG Smoke (10 usuarios, loop 1)**
